@@ -1,2 +1,2 @@
-# Calendar-2025-Aug
-Calendar for August, 2025
+# 2025-Aug Calendar
+2025-08 August Calendar
